@@ -1,4 +1,4 @@
-<p align="center"><b><span style="text-decoration: underline;">Online Sunglasses Store</span></b></p>
+<p align="center"><b><span style="text-decoration: underline;">Online Sunglass Bazar</span></b></p>
 <h4 class="h4"><span style="text-decoration: underline;">Project Summary:</span></h4>
 <p>The main objective for developing this project was to sell sunglasses online order.This project Intends different types of forms with many types of sunglasses that provides to user to buy online through internet. The project helps to buy, sell sunglasses online by internet connection. It can manage purchasing of sunglasses online, customer can choose many types of sunglasses categories , cash on-delivery, online payments , delivery services etc. This project is very helpful for customer to easy buy&nbsp; any types of sunglasses. This project provides a lot of features to manage in very well manner.</p>
 <h4 class="h4"><span style="text-decoration: underline;"><b>Admin Panel</b>:</span></h4>
